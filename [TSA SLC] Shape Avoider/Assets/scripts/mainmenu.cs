@@ -7,7 +7,7 @@ public class mainmenu : MonoBehaviour
 {
     public void playGame()
     {
-        SceneManager.LoadScene("squarelevel");
+        SceneManager.LoadScene("trianglelevel");
     }
 
     public void quit()
