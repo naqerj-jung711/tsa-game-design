@@ -9,21 +9,36 @@ EditorBuildSettings:
     path: Assets/Scenes/ui/startscreen.unity
     guid: 2674c71f2bcc781459ba6722e5df7194
   - enabled: 1
-    path: Assets/Scenes/trianglelevel.unity
+    path: Assets/Scenes/levels/trianglelevel.unity
     guid: b0e05cca85a2040458fbe1e54b522e94
   - enabled: 1
-    path: Assets/Scenes/squarelevel.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/hexagonlevel.unity
+    path: Assets/Scenes/levels/hexagonlevel.unity
     guid: a396ce696582752428f3e1655a295833
   - enabled: 1
-    path: Assets/Scenes/octagonlevel.unity
-    guid: 3d2a5ac251c514e4aa0210e601a85c05
+    path: Assets/Scenes/levels/squarelevel 1.unity
+    guid: c15e03c8724e94340b18317a12d868ce
   - enabled: 1
-    path: Assets/Scenes/lastlevel.unity
-    guid: cb3fde0bff2f4544bafa3684b9f398ab
+    path: Assets/Scenes/levels/octagonlevel 1.unity
+    guid: c2728d5688ce6354eb71c9f721e1a217
+  - enabled: 1
+    path: Assets/Scenes/levels/lastlevel 1.unity
+    guid: 63b0aa7ead9f0374db6fe90759dadcce
   - enabled: 1
     path: Assets/Scenes/ui/endscreen.unity
     guid: c15e0a20ed2d77c42a7091f8f5796a75
+  - enabled: 1
+    path: Assets/Scenes/inf_levles/z_inf_triangle.unity
+    guid: 240fec965148e6a45b38c9185c9e68d1
+  - enabled: 1
+    path: Assets/Scenes/inf_levles/z_inf_square.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/inf_levles/z_inf_hexagon.unity
+    guid: d026ff99083bfe24abd72b198cd05e3d
+  - enabled: 1
+    path: Assets/Scenes/inf_levles/octagonlevel.unity
+    guid: 3d2a5ac251c514e4aa0210e601a85c05
+  - enabled: 1
+    path: Assets/Scenes/inf_levles/lastlevel.unity
+    guid: cb3fde0bff2f4544bafa3684b9f398ab
   m_configObjects: {}
