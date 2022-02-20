@@ -12,11 +12,11 @@ EditorBuildSettings:
     path: Assets/Scenes/levels/trianglelevel.unity
     guid: b0e05cca85a2040458fbe1e54b522e94
   - enabled: 1
-    path: Assets/Scenes/levels/hexagonlevel.unity
-    guid: a396ce696582752428f3e1655a295833
-  - enabled: 1
     path: Assets/Scenes/levels/squarelevel 1.unity
     guid: c15e03c8724e94340b18317a12d868ce
+  - enabled: 1
+    path: Assets/Scenes/levels/hexagonlevel.unity
+    guid: a396ce696582752428f3e1655a295833
   - enabled: 1
     path: Assets/Scenes/levels/octagonlevel 1.unity
     guid: c2728d5688ce6354eb71c9f721e1a217
