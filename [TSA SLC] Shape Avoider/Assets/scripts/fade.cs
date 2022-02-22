@@ -5,14 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class fade : MonoBehaviour
 {
-    public bool yes;
+    public bool yes = false;
     public Animator transition;
     public float waittime;
 
     // Update is called once per frame
     void Update()
     {
-        if (yes == true)
+        if (yes)
         {
             LoadNext();
         }    
