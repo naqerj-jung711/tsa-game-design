@@ -2033,6 +2033,7 @@ MonoBehaviour:
   delay2: 0.1
   restartmenu: {fileID: 671664827}
   completemenu: {fileID: 753767571}
+  colliderenabled: 1
 --- !u!58 &1956042860
 CircleCollider2D:
   m_ObjectHideFlags: 0

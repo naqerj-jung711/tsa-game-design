@@ -488,7 +488,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: quit.to.start
+  m_Text: quit.to.title
 --- !u!222 &936616249
 CanvasRenderer:
   m_ObjectHideFlags: 0
