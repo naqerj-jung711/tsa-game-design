@@ -1712,7 +1712,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 340d06e7c762ddb49a9ec3b4b3434140, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnRate: 1
+  spawnRate: 0.8
   prefabs:
   - {fileID: 4751139500634605861, guid: 31c5ec26e34dffa4e97018699127b340, type: 3}
   - {fileID: 3425933691678576911, guid: f667c8565f67dab43aacd158c76124eb, type: 3}

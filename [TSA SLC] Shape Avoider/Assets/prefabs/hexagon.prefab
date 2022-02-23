@@ -170,7 +170,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 4751139500634605865}
-  shrinkSpeed: 3
+  shrinkSpeed: 2
 --- !u!1 &4751139501306693929
 GameObject:
   m_ObjectHideFlags: 0

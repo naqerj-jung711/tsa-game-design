@@ -1193,7 +1193,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9902edd04948ba644a285b3598103e46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnRate: 0.5
+  spawnRate: 0.3
   hexagonPrefab: {fileID: 8583301818879385804, guid: 76a19d5a956cd37428c5c55fdddb510b, type: 3}
   score: 0
 --- !u!4 &975699789
@@ -2022,7 +2022,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: {fileID: 0}
   moveSpeed: 600
-  scoreToPass: 10
+  scoreToPass: 20
   delay: 0.1
   delay2: 0.1
   restartmenu: {fileID: 1327771923}
